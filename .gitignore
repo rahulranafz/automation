@@ -1,0 +1,5 @@
+# Ignored directories
+test-output/
+target/
+
+
